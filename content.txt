@@ -1,0 +1,28 @@
+As a part of next steps you are assigned to Build a simple Android app that demonstrates your understanding of UI design, navigation, local storage, and API integration.
+
+1. Splash Screen
+Display logo of Robokalam and app name.
+
+2. User Onboarding/Login Screen
+    * Use basic login with email (local storage, no Firebase required).
+    * Store login status using SharedPreferences.
+
+3. Dashboard/Home Screen
+   * Show welcome message with student name.
+
+  * Include cards/buttons to navigate to different sections.
+
+4. Portfolio Section
+   * User can add:
+    Name, 
+    College
+   Skills (add at least 3 skills)
+   Project Title & Description
+
+   * Store data locally (using SQLite or Room DB).
+
+5. Quote of the Day (API Integration)
+Call a public API (like https://zenquotes.io) and display a motivational quote each day on the dashboard.
+
+6. About Robokalam Section
+A static page with a short paragraph and image about Robokalam (you may refer to our Internshala listing or website).
