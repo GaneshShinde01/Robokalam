@@ -76,14 +76,6 @@ Robokalam/
 
 ---
 
-### 🖼️ Screenshots 
-
-| Splash Screen                            | Login Page                          | Dashboard                                   |
-| ---------------------------------------- | ----------------------------------- | ------------------------------------------- |
-| ![splash](screens/Splash_Screen.jpeg)    | ![login](screens/Login_Screen.jpeg) | ![dashboard](screens/Dashboard_Screen.jpeg) |
-
----
-
 ### ⚙️ How to Run the Project
 
 1. Clone the repo:
