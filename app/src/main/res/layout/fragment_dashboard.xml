@@ -31,13 +31,11 @@
         android:background="@drawable/bg_quote_card"
         android:layout_marginBottom="24dp" />
 
-    <!-- Spacer to push button toward bottom -->
     <View
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1" />
 
-    <!-- Add Portfolio Button -->
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/addPortfolioBtn"
         android:layout_width="wrap_content"
