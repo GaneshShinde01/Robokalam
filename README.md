@@ -76,11 +76,11 @@ Robokalam/
 
 ---
 
-### 🖼️ Screenshots (Optional)
+### 🖼️ Screenshots 
 
 | Splash Screen                            | Login Page                          | Dashboard                                   |
 | ---------------------------------------- | ----------------------------------- | ------------------------------------------- |
-| ![splash](screens/Splash Screen.jpeg)    | ![login](screens/Login Screen.jpeg) | ![dashboard](screens/Dashboard Screen.jpeg) |
+| ![splash](screens/Splash_Screen.jpeg)    | ![login](screens/Login_Screen.jpeg) | ![dashboard](screens/Dashboard_Screen.jpeg) |
 
 ---
 
