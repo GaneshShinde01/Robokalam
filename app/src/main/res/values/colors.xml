@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="splashScreen">#DBEBFD</color>
+    <color name="primaryColor">#14365D</color>
+    <color name="button">#7AB800</color>
+    <color name="text">#555555</color>
+    <color name="quote">#EAF3FB</color>
+    <color name="primaryLightBackground">#D6E4FF</color>
+    <color name="bottomNavBg">#6AAFE6</color>
+    <color name="aboutBg">#B0D4F1</color>
+
+
+
 </resources>

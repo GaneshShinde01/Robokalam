@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Robokalam</string>
+    <string name="app_name_ss">ROBOKALAM</string>
+    <string name="app_slogan_ss">literature of robotics</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_robokalam">Robokalam is an Indian EdTech company that provides gamified online courses,
+        workshops, and DIY kits focused on teaching 21st-century technical skills like coding, robotics, AI, and IoT to
+        students, primarily in the K-12 segment. They aim to make learning engaging and practical, fostering innovation
+        and preparing students for future technologies.</string>
 </resources>

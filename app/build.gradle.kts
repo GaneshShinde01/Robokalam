@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.project.robotkalam"
+    namespace = "com.project.robokalam"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.project.robotkalam"
+        applicationId = "com.project.robokalam"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -28,6 +28,10 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
+    }
+
+    buildFeatures{
+        viewBinding = true
     }
 }
 

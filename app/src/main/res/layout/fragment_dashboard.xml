@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="top|center_horizontal"
+    tools:context=".Fragments.DashboardFragment">
+
+    <TextView
+        android:id="@+id/welCome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@color/primaryColor"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="24dp" />
+
+    <TextView
+        android:id="@+id/quoteText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:padding="16dp"
+        android:background="@drawable/bg_quote_card"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Spacer to push button toward bottom -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <!-- Add Portfolio Button -->
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/addPortfolioBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Portfolio"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@android:color/white"
+        android:paddingHorizontal="24dp"
+        android:paddingVertical="12dp"
+        android:textAllCaps="false"
+        android:layout_gravity="center"
+        android:layout_marginBottom="24dp"/>
+
+</LinearLayout>
